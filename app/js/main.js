@@ -80,13 +80,13 @@ Version:	1.1
 		=================================*/ 
 		$(".hero-slider").owlCarousel({
 			loop:true,
-			autoplay:true,
+			autoplay:false,
 			smartSpeed: 500,
 			autoplayTimeout:3500,
 			singleItem: true,
 			autoplayHoverPause:true,
 			items:1,
-			nav:true,
+			//nav:true,
 			navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
 			dots:false,
 		});

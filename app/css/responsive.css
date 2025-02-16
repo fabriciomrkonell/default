@@ -528,7 +528,7 @@ Version:	1.1
 	padding:50px 0px;
 }
 .section-title {
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	padding: 0px 20px;
 }
 .section-title h2 {
@@ -572,14 +572,17 @@ Version:	1.1
 	text-align: center;
 }
 .slider .single-slider {
-	height: 380px;
+	height: 550px;
+}
+.appointment {
+  padding: 25px 0px;
 }
 .schedule {
 	background: #fff;
 	margin: 0;
 	padding: 0;
 	height: auto;
-	padding: 50px 0;
+	padding: 25px 0;
 	border-bottom:1px solid #eee;
 }
 .schedule .schedule-inner {

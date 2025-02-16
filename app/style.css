@@ -607,14 +607,14 @@ body{
 	font-weight: 700;
 	margin: 0;
 	padding: 0;
-	line-height: 42px;
+	line-height: 44px;
 }
 .slider .single-slider h1 span{
 	color:#1a76d1;
 }
 .slider .single-slider p {
 	color: #2C2D3F;
-	margin-top: 27px;
+	margin-top: 17px;
 	font-weight: 400;
 }
 .slider .single-slider .button{
@@ -697,7 +697,7 @@ body{
 }
 .schedule .schedule-inner {
 	position: relative;
-	transform: translateY(-50%);
+	transform: translateY(-25%);
 	z-index:9;
 }
 .schedule .single-schedule {
@@ -2718,6 +2718,7 @@ body{
 ============================*/
 .appointment{
 	background:#fff;
+  margin-bottom: 5px;
 }
 .appointment.single-page {
 	background: #fff;
