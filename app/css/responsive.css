@@ -109,7 +109,7 @@ Version:	1.1
 }
 .header.style2 .single-widget p {
 	margin-bottom: 0;
-	text-transform: capitalize;
+
 	font-size: 13px;
 }
 .header.style2 .single-widget i {
@@ -124,7 +124,7 @@ Version:	1.1
 	padding-top: 15px;
 }
 .slider .single-slider {
-	height: 380px;
+	height: 440px;
 }
 .schedule {
 	background: #fff;
@@ -1063,7 +1063,7 @@ Version:	1.1
 	text-align: center;
 }
 .slider .single-slider {
-	height: 380px;
+	height: 500px;
 }
 .schedule {
 	background: #fff;

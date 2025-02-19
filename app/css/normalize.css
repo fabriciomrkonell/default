@@ -429,7 +429,6 @@ Preloader Area CSS
 	color: #fff;
 	padding: 13px 25px;
 	font-size: 14px;
-	text-transform: capitalize;
 	font-weight: 500;
 	background: #1A76D1;
 	position: relative;
@@ -470,7 +469,7 @@ Preloader Area CSS
 	transform: scaleX(1);
 }
 .section{
-	padding:100px 0;
+	padding:50px 0;
 }
 .section-title{
 	text-align: center;
@@ -480,7 +479,6 @@ Preloader Area CSS
 .section-title h2 {
 	font-size: 32px;
 	font-weight: 600;
-	text-transform: capitalize;
 	margin-bottom: 24px;
 	position: relative;
 	color: #2C2D3F;
@@ -519,7 +517,6 @@ Preloader Area CSS
 }
 .breadcrumbs h2{
 	color: #fff;
-	text-transform:capitalize;
 	font-size: 38px;
 	font-weight: 700;
 	margin: 0;
@@ -535,7 +532,6 @@ Preloader Area CSS
 	color: #fff;
 	font-size: 15px;
 	font-weight: 500;
-	text-transform: capitalize;
 }
 .breadcrumbs ul li i {
 	margin: 0px 10px;
@@ -547,7 +543,6 @@ Preloader Area CSS
 	color: #fff;
 	font-size: 15px;
 	font-weight: 500;
-	text-transform: capitalize;
 	margin:0;
 	padding:0;
 }
